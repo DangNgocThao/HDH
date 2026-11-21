@@ -1,0 +1,7 @@
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTLT2\bin\Debug\BTLT2.exe.config
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTLT2\bin\Debug\BTLT2.exe
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTLT2\bin\Debug\BTLT2.pdb
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTLT2\obj\Debug\BTLT2.csproj.AssemblyReference.cache
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTLT2\obj\Debug\BTLT2.csproj.CoreCompileInputs.cache
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTLT2\obj\Debug\BTLT2.exe
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTLT2\obj\Debug\BTLT2.pdb

@@ -1,0 +1,6 @@
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM8\bin\Debug\BTM8.exe.config
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM8\bin\Debug\BTM8.exe
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM8\bin\Debug\BTM8.pdb
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM8\obj\Debug\BTM8.csproj.CoreCompileInputs.cache
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM8\obj\Debug\BTM8.exe
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM8\obj\Debug\BTM8.pdb

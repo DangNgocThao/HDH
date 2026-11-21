@@ -1,0 +1,7 @@
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM3\bin\Debug\BTM3.exe.config
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM3\bin\Debug\BTM3.exe
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM3\bin\Debug\BTM3.pdb
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM3\obj\Debug\BTM3.csproj.CoreCompileInputs.cache
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM3\obj\Debug\BTM3.exe
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM3\obj\Debug\BTM3.pdb
+C:\Users\DNT\Downloads\LT\HDH\Tuan4-TH-HeDieuHanh-2001206904\BTM3\obj\Debug\BTM3.csproj.AssemblyReference.cache
